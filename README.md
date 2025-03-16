@@ -2,8 +2,6 @@
 
 A modern web application for compressing images right in your browser. Built with TypeScript, Express, and Vite.
 
-![Demo Screenshot Placeholder]
-
 ## Features
 
 - 🖼️ Support for JPEG, PNG, and WebP formats
